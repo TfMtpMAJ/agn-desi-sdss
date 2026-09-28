@@ -10,8 +10,7 @@ We find that DESI extends well-established SDSS trends into the low-luminosity a
 
 ## Full paper
 
-**[Read the full paper (PDF)](Xi_Ruici_AGN_DESI_SDSS_2025.pdf)** · [Direct download](https://github.com/RoselynXi/agn-desi-sdss/raw/main/Xi_Ruici_AGN_DESI_SDSS_2025.pdf)
-
+**[Read the full paper (PDF)](Xi_Ruici_AGN_DESI_SDSS_2025.pdf)** · 
 ## Data sources
 
 - **Sample**: 561 changing-look AGN at z ≤ 0.9 from Guo et al. (2025), ApJS, 278, 28 ([doi:10.3847/1538-4365/adc124](https://doi.org/10.3847/1538-4365/adc124)), built by cross-matching **DESI Data Release 1 (DR1)** with **SDSS Data Release 16 (DR16)**
